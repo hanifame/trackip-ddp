@@ -1,6 +1,3 @@
-# app.py - Antarmuka Streamlit TrackIP (Anti-Slop Edition)
-# Jalankan dengan: streamlit run app.py
-
 import streamlit as st
 from logika import *
 
